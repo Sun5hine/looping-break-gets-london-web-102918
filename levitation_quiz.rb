@@ -1,7 +1,8 @@
 
 def levitation_quiz
 	
-	puts 
+	puts "What is the spell that enacts levitation?"
+	break if answer == 
 end
 
 
